@@ -37,7 +37,7 @@
 		"atColor": "gray",
 		"hostColor": "magenta",
 		"promptColor": "magenta",
-		"promptSymbol": "❯",
+		"promptSymbol": "#",
 		"caretColor": "green",
 		"selectionBg": "yellow",
 		"selectionFg": "black"

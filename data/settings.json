@@ -1,29 +1,23 @@
 {
-	"username": "Excalith",
+	"username": "Mexcalith",
 	"theme": {
 		"name": "Default",
-		"backgroundColor": "#121317",
-		"windowColor": "#1e212b",
-		"textColor": "#e2e2e2",
-		"black": "#16161e",
-		"red": "#ec6183",
-		"green": "#2ed8a2",
-		"yellow": "#e8b195",
-		"blue": "#2bc3de",
-		"magenta": "#d1aff8",
-		"cyan": "#62e0e2",
-		"white": "#e2e2e2",
-		"gray": "#97989d"
-	},
-	"wallpaper": {
-		"url": "assets/default-wallpaper.svg",
-		"easing": "ease-in-out",
-		"fadeIn": true,
-		"blur": false
+		"backgroundColor": "#3f2f3a",
+		"windowColor": "#78596e",
+		"textColor": "#fafafa",
+		"black": "#241c22",
+		"red": "#ed3740",
+		"green": "#d640a2",
+		"yellow": "#d640a2",
+		"blue": "#d640a2",
+		"magenta": "#d640a2",
+		"cyan": "#d640a2",
+		"white": "#fafafa",
+		"gray": "#d640a2"
 	},
 	"terminal": {
 		"fixedHeight": true,
-		"windowGlow": true,
+		"windowGlow": false,
 		"windowGlowColor": "#291f3325",
 		"textGlow": false,
 		"opacity": 0,

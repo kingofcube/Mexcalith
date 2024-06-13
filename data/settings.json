@@ -15,6 +15,12 @@
 		"white": "#fafafa",
 		"gray": "#d640a2"
 	},
+	"wallpaper": {
+		"url": "",
+		"easing": "ease-in-out",
+		"fadeIn": true,
+		"blur": false
+	},
 	"terminal": {
 		"fixedHeight": true,
 		"windowGlow": false,

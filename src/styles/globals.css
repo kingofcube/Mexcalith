@@ -33,7 +33,7 @@
 * {
 	box-sizing: border-box;
 	padding: 0;
-	border-radius: 0px;
+	border-radius: 0px!important;
 	margin: 0;
 }
 
@@ -45,7 +45,7 @@ body {
 }
 
 body {
-	font-family: "Fira Code", monospace;
+	font-family: monospace;
 }
 
 a,

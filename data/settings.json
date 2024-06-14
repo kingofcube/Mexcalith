@@ -7,8 +7,7 @@
 		"textColor": "#fafafa",
 		"black": "#241c22",
 		"red": "#ed3740",
-		"pink": "#fcb6e1",
-		"green": "#d640a2",
+		"green": "#fcb6e1",
 		"yellow": "#d640a2",
 		"blue": "#d640a2",
 		"magenta": "#d640a2",
@@ -37,16 +36,16 @@
 		"userColor": "magenta",
 		"atColor": "red",
 		"hostColor": "magenta",
-		"promptColor": "pink",
+		"promptColor": "green",
 		"promptSymbol": ":3",
 		"caretColor": "magenta",
-		"selectionBg": "magenta",
-		"selectionFg": "magenta"
+		"selectionBg": "green",
+		"selectionFg": "textColor"
 	},
 	"fetch": {
 		"timeFormat": "HH:mm",
 		"dateFormat": "DD/MM/YYYY",
-		"titleColor": "yellow",
+		"titleColor": "green",
 		"image": "assets/default-icon.svg",
 		"data": [
 			"Time: {time}",
@@ -57,8 +56,7 @@
 			"{seperator}",
 			"Browser: {browser} {browserVersion}",
 			"Engine: {engineName}",
-			"{seperator}",
-			"{colors}"
+			"{seperator}"
 		]
 	},
 	"urlLaunch": {

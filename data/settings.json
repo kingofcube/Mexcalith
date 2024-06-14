@@ -18,16 +18,16 @@
 	"wallpaper": {
 		"url": "",
 		"easing": "ease-in-out",
-		"fadeIn": true,
+		"fadeIn": false,
 		"blur": false
 	},
 	"terminal": {
 		"fixedHeight": true,
 		"windowGlow": false,
-		"windowGlowColor": "#291f3325",
+		"windowGlowColor": "transparent",
 		"textGlow": false,
-		"opacity": 0,
-		"blur": 16
+		"opacity": 1,
+		"blur": 0
 	},
 	"prompt": {
 		"ctrlC": true,

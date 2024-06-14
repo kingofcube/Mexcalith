@@ -49,7 +49,7 @@ body {
 }
 
 .shadow-lg, .shadow-none {
-display: none
+box-shadow: transparent
 }
 
 a,

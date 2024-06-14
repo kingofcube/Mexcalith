@@ -131,7 +131,7 @@
 			},
 			{
 				"title": "Dev",
-				"color": "magenta",
+				"color": "green",
 				"align": "left",
 				"links": [
 					{
@@ -160,13 +160,13 @@
 			},
 			{
 				"title": "Gaming",
-				"color": "green",
+				"color": "magenta",
 				"align": "left",
 				"links": [
 					{
 						"name": "Roblox",
 						"url": "https://roblox.com",
-						"icon": "uil:roblox"
+						"icon": "mdi:controller"
 					},
 					{
 						"name": "SRB2 MB",
@@ -177,7 +177,7 @@
 			},
 			{
 				"title": "Blogs",
-				"color": "magenta",
+				"color": "green",
 				"align": "left",
 				"links": [
 					{
@@ -194,7 +194,7 @@
 			},
 			{
 				"title": "Tech",
-				"color": "yellow",
+				"color": "green",
 				"align": "left",
 				"links": [
 					{

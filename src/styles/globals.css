@@ -48,6 +48,10 @@ body {
 	font-family: monospace;
 }
 
+.shadow-lg, .shadow-none {
+display: none
+}
+
 a,
 a:active,
 a:visited {

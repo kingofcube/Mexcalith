@@ -1,9 +1,9 @@
 {
 	"username": "Mexcalith",
 	"theme": {
-		"name": "Default",
+		"name": "M-Theme",
 		"backgroundColor": "#3f2f3a",
-		"windowColor": "#78596e",
+		"windowColor": "#3f2f3a",
 		"textColor": "#fafafa",
 		"black": "#241c22",
 		"red": "#ed3740",

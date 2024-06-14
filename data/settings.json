@@ -32,15 +32,15 @@
 	"prompt": {
 		"ctrlC": true,
 		"placeholder": "command...",
-		"placeholderColor": "gray",
-		"userColor": "green",
-		"atColor": "gray",
+		"placeholderColor": "magenta",
+		"userColor": "magenta",
+		"atColor": "red",
 		"hostColor": "magenta",
-		"promptColor": "magenta",
-		"promptSymbol": "#",
-		"caretColor": "green",
-		"selectionBg": "yellow",
-		"selectionFg": "black"
+		"promptColor": "red",
+		"promptSymbol": ":3",
+		"caretColor": "magenta",
+		"selectionBg": "magenta",
+		"selectionFg": "magenta"
 	},
 	"fetch": {
 		"timeFormat": "HH:mm",
@@ -65,14 +65,14 @@
 		"hoverColor": "magenta"
 	},
 	"search": {
-		"default": "https://google.com/search?q=",
+		"default": "https://searx.be/search?q=",
 		"target": "_self",
 		"shortcutRegex": "([A-Za-z0-9]+) (.*)",
 		"shortcuts": [
 			{
-				"alias": "g",
-				"name": "Google Search",
-				"url": "https://google.com/search?q={}"
+				"alias": "sx",
+				"name": "SearX Search",
+				"url": "https://searx.be/search?q={}"
 			},
 			{
 				"alias": "d",
@@ -144,21 +144,6 @@
 						"name": "GitHub",
 						"url": "https://github.com",
 						"icon": "mdi:github"
-					},
-					{
-						"name": "GitLab",
-						"url": "https://gitlab.com",
-						"icon": "ph:gitlab-logo-simple-fill"
-					},
-					{
-						"name": "Dev.to",
-						"url": "https://dev.to",
-						"icon": "material-symbols:logo-dev"
-					},
-					{
-						"name": "Stack Overflow",
-						"url": "https://stackoverflow.com/",
-						"icon": "mdi:stack-overflow"
 					}
 				]
 			},

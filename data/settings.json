@@ -8,7 +8,13 @@
 		"black": "#241c22",
 		"red": "#ed3740",
 		"pink": "#fcb6e1",
+		"green": "#d640a2",
+		"yellow": "#d640a2",
+		"blue": "#d640a2",
 		"magenta": "#d640a2",
+		"cyan": "#d640a2",
+		"white": "#fafafa",
+		"gray": "#d640a2"
 	},
 	"wallpaper": {
 		"url": "",
